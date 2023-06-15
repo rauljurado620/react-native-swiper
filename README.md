@@ -263,14 +263,3 @@ $ react-native run-ios
 Then launch simulator to preview. Note that you just need to edit the source file `src/index.js`, the change will auto sync to examples.
 
 After development, you should add test for your modification and make all tests passed to prevent other contributors break the feature in the future accidentally. We use detox + jest for e2e test now, you can read [Detox](https://github.com/wix/Detox) for more detail.
-
-## Contribution
-
-- [@leecade](mailto:leecade@163.com) The main author.
-- [@rajkissu](mailto:rajkissu@gmail.com) The secondary contributor.
-
-## Questions
-
-Feel free to [contact me](mailto:leecade@163.com) or [create an issue](https://github.com/leecade/react-native-swiper/issues/new)
-
-> Inspired by [nolimits4web/Swiper](https://github.com/nolimits4web/swiper/) & Design material from [Dribbble](https://dribbble.com/) & made with ♥.
