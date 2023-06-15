@@ -249,8 +249,6 @@ $ npm i
 $ react-native run-ios
 ```
 
-> Quick start with [examples](https://github.com/leecade/react-native-swiper/tree/master/examples/).
-
 ### Development
 
 ```bash
